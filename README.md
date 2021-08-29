@@ -5,10 +5,10 @@
 	steganography [OPTION] .. [INPUT IMAGE]
 
 ## Description :
-	 Steganography is the practice of concealing a message within
-	 another message or a physical object. In computing/electronic contexts,
- 	 a computer file, message, image, or video is concealed within another file,
-	 message, image, or video.
+   Steganography is the practice of concealing a message within
+another message or a physical object. In computing/electronic contexts,
+a computer file, message, image, or video is concealed within another file,
+message, image, or video.
 
 ## Options :
 	-i,--input [INPUT IMAGE]  : input image to hide the message.
@@ -19,8 +19,7 @@
 	-h, --help                : show this help message.
 
 ## Authors:
-	Yassine Damiri.
+Yassine Damiri.
 
 ## License:
-		MIT License
- 	Copyright (c) 2021 YassineDamiri
+MIT License. Copyright (c) 2021 YassineDamiri
